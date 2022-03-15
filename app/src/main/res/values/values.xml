@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_horizontal_margin">40dp</dimen>
+    <dimen name="quiz_result_view_width">10dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="place_holder_title">14sp</dimen>
+    <dimen name="input_text">14sp</dimen>
+    <dimen name="button_text_size_s">12sp</dimen>
+    <dimen name="button_text_size_m">14sp</dimen>
+    <dimen name="button_text_size_l">16sp</dimen>
+    <dimen name="button_text_size_xl">18sp</dimen>
+    <dimen name="button_text_size_xxl">20sp</dimen>
+    <dimen name="question_text_size">16sp</dimen>
+    <dimen name="quesion_desc_left_margin">10dp</dimen>
+    <dimen name="quesion_desc_top_margin">5dp</dimen>
+    <dimen name="quesion_desc_right_margin">10dp</dimen>
+    <dimen name="quesion_desc_bottom_margin">10dp</dimen>
+    <dimen name="quiz_run_left_margin">10dp</dimen>
+    <dimen name="quiz_run_padding">10dp</dimen>
+    <dimen name="quiz_result_padding">5dp</dimen>
+    <dimen name="options_padding">5dp</dimen>
+    <dimen name="options_horizontal_padding">10dp</dimen>
+    <dimen name="quiz_list_horizontal_margin">10dp</dimen>
+    <dimen name="quiz_list_bottom_margin">5dp</dimen>
+    <dimen name="user_profile_button_heigth">200dp</dimen>
+
+</resources>

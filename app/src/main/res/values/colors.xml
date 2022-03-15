@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#3BA935</color>
+    <color name="DarkGrey">#535A72</color>
+    <color name="background">#000000</color>
+    <color name="textColor">#666666</color>
+    <color name="textColorGrey">#8c8c8c</color>
+    <color name="hintTextColor">#66ffffff</color>
+    <color name="facebook_button_color">#4c76d3</color>
+    <color name="google_button_color">#9d261e</color>
+    <color name="login_header_color">#33ffffff</color>
+    <color name="question_chekbox_white_color">#ffffffff</color>
+    <color name="question_optio_selected_color">#00ffffff</color>
+    <color name="error_color">#ff0000</color>
+    <color name="round_question_option_color">#F5F5F5</color>
+    <color name="round_question_option_selected_color">#E4E4E4</color>
+</resources>
