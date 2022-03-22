@@ -56,7 +56,7 @@ public class MainActivity extends Activity {
     }
 
     private void navigateToSingIn() {
-        startActivity(new Intent(MainActivity.this,SingInActivity.class));
+        startActivity(new Intent(MainActivity.this, SingUpActivity.class));
     }
 
     private void loginUser(String userName,String userPass)
@@ -120,10 +120,11 @@ public class MainActivity extends Activity {
     private void makeLoginRequestWithCallBack(String userName,String userPass)  {
 
         showProgressbar();
+
         OkHttpClient client = new OkHttpClient().newBuilder()
                 .build();
         MediaType mediaType = MediaType.parse("application/json");
-        RequestBody body = RequestBody.create(mediaType, "{\n    \"email\":\"okay.yildirim@gmail.com\",\n    \"password\": \"111111\",\n    \"returnSecureToken\" : true\n}");
+        RequestBody body = RequestBody.create(mediaType, "{\n    \"email\":\"" + userName+ "\",\n    \"password\": \"" + userPass + "\",\n    \"returnSecureToken\" : true\n}");
         Request request = new Request.Builder()
                 .url("https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyBwi7VewRmOTTxyj-j9WWpSUEpejETM7mI")
                 .method("POST", body)

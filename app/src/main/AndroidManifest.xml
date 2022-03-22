@@ -19,7 +19,7 @@
             android:name=".Activities.DataDisplayActivity"
             android:exported="false" />
         <activity
-            android:name=".Activities.SingInActivity"
+            android:name=".Activities.SingUpActivity"
             android:exported="false" />
         <activity
             android:name=".Activities.MainActivity"

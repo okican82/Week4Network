@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activities.SingInActivity">
+    tools:context=".Activities.SingUpActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="0dp"
@@ -87,7 +87,7 @@
 
 
     <Button
-        android:id="@+id/loginButton"
+        android:id="@+id/signupButton"
         style="@style/typeOneButton"
         android:layout_marginStart="40dp"
         android:layout_marginEnd="40dp"
