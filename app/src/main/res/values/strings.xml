@@ -4,7 +4,6 @@
     <string name="please_wait">Please Wait</string>
     <string name="username">User Name</string>
     <string name="password">Password</string>
-    <string name="game_name">SNAKE GAME</string>
     <string name="select_level">Select Level</string>
     <string name="login">Login</string>
     <string name="create_account">Create Account</string>
@@ -36,4 +35,21 @@
         <item>Password can not be null</item>
         <item>Please enter a valid password.</item>
     </string-array>
+    <string name="get_data">getData</string>
+    <string name="show_Image">Show Image</string>
+    <string name="open_classic_way">Open Classic Way</string>
+    <string name="open_api_call_different_class">Open API Call Different Class</string>
+    <string name="open_introduction_activity">Open Introduction Activity</string>
+    <string name="get">GET</string>
+    <string name="get_user">GET Users</string>
+    <string name="post_user">Post Users</string>
+    <string name="get_user_by_id">Get User By ID</string>
+    <string name="get_user_by_id_and_post_id">Get User By ID and post Id</string>
+    <string name="get_by_hashmap">Get By Hashmap</string>
+    <string name="change_the_part_of_the_url">Change The Part Of The URL</string>
+    <string name="different_end_point">Different endpoint</string>
+    <string name="send_request_with_header">Send Request With Header</string>
+    <string name="send_request_with_header_dynamic">Send Request With Header Dynamic</string>
+    <string name="logging">Logging</string>
+
 </resources>
